@@ -1,7 +1,7 @@
 # Infotrix_Task_1
 Employee Management System-
 
-The Employee Management System is a console-based Java application that allows you to manage employee records using a text file as storage. This application provides an easy-to-use interface for adding, displaying, updating, and deleting employee records.
+The Employee Management System is a console-based Java application that allows you to manage employee records using a text file as storage into readable format as text document. This application provides an easy-to-use interface for adding, displaying, updating, and deleting employee records.
 
 Features-
 
