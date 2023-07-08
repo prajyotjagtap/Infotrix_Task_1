@@ -27,7 +27,7 @@ Installation-
 Clone the repository to your local machine or download the source code as a ZIP file.
 
 Link is here-
-
+https://github.com/prajyotjagtap/Infotrix_Task_1
 
 Open the project into preferred IDE.
 
